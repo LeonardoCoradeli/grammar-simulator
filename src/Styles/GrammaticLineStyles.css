@@ -1,0 +1,42 @@
+.line {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0.3em;
+    margin: 0.5em;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    gap: 1em;
+}
+
+
+.non-terminal {
+    background-color: #f0f0f0;
+    width: 1em;
+}
+
+.non-terminal input {
+    width: 1em;
+}
+
+.divider {
+    background-color: #f0f0f0;
+    width: 0.5em;
+}
+
+.final {
+    background-color: #f0f0f0;
+    width: 1em;
+}
+
+.after-arrow {
+    width: 1em;
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+.after-arrow input {
+    width: 1em;
+}

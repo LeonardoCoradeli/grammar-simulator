@@ -1,0 +1,1 @@
+Um projeto para a materia de Linguagens Formais e Teoria da Computação de um simulador de Gramatica Regular
