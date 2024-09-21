@@ -1,0 +1,50 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  input {
+    height: 35px;
+    width: 300px;
+    margin: 15px;
+    padding: 0 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    font-size: 16px; 
+  }
+  
+  input::placeholder{
+    color: #9f9f9f;
+  }
+  
+  .errado {
+    background-color: red;
+    color: white; 
+    border-radius: 5px; 
+  }
+  
+  .correto {
+    background-color: #008000;
+    color: white; 
+    border-radius: 5px; 
+  }
+  
+  .titulo {
+    font-size: 2rem; 
+    font-weight: bold; 
+    color: #9f9f9f; 
+    margin: 1rem 0; 
+    text-align: center; 
+    text-transform: uppercase; 
+  }
+  
+  .titulo-secondary {
+    font-size: 1.5rem; 
+    font-weight: normal; 
+    color: #9f9f9f; 
+    margin: 0.5rem 0; 
+    text-align: center; 
+  }
+  
